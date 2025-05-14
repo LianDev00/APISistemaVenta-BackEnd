@@ -29,7 +29,7 @@ Este proyecto tiene como objetivo mejorar la gestión de ventas proporcionando u
 Este proyecto requiere las siguientes dependencias:
 
 * **Lenguaje de Programación:** CSharp
-* **Administrador de Paquetes:** [NuGet](https://www.nuget.org/)
+* **Administrador de Paquetes:** <a href="https://www.nuget.org/" target="_blank">NuGet</a>
 
 ### Instalación
 
